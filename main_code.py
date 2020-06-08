@@ -1,4 +1,4 @@
-﻿# This code is written by Rahmi Elibol at December 2019 for Ventral to Dorsal article.
+# This code is written by Rahmi Elibol at December 2019 for Ventral to Dorsal article.
 
 
 
