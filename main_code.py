@@ -1329,10 +1329,10 @@ S84_241_243.connect(True, p = 0.25)
 
 # 41 Dorsal_THL_251
 
-S85_2051_251 = Synapses(PG_Dorsal_THL_2051, Dorsal_THL_251,  delay=dly, on_pre='ge += 0.15*we')
+S85_2051_251 = Synapses(PG_Dorsal_THL_2051, Dorsal_THL_251,  delay=dly, on_pre='ge += 0.20*we')
 S85_2051_251.connect(True, p = 0.25)
 
-S86_242_251 = Synapses(Dorsal_GPi_242, Dorsal_THL_251, delay=dly, on_pre='gi += wi')
+S86_242_251 = Synapses(Dorsal_GPi_242, Dorsal_THL_251, delay=dly, on_pre='gi += 2.5*wi')
 S86_242_251.connect(True, p = 0.5)
 
 
