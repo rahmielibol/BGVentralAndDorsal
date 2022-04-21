@@ -1313,7 +1313,7 @@ elif number_of_scenario==2:
     run(duration1, report='text')
     
     
-    print('Scenario 2: VTA and SNc')    
+    print('Scenario 2: Only VTA')    
     
     S01_1011_111.w=we*0
     S54_1011_131.w=we
