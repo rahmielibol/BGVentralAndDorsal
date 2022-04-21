@@ -1,4 +1,4 @@
-﻿# Modelling ventral and dorsal BG circuits
+# Modeling ventral and dorsal BG circuits
 # Ventral Striatum Modifies Activity of Basal Ganglia Circuit: A Computational Model
 
 
